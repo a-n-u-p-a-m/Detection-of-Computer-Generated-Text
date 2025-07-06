@@ -1,5 +1,5 @@
 # Detection-of-Computer-Generated-Text
-Drive link: [https://googledrive.com/host/1OKB9eZXvUNouIlmOBhsNCZo7po68xNvI?usp=sharing](url)
+Drive link: [https://googledrive.com/host/1OKB9eZXvUNouIlmOBhsNCZo7po68xNvI](url)
 
 The folder corressponding to above link contains code and dataset for the project "Detection of Computer-generated text".
 
