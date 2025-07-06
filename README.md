@@ -11,6 +11,8 @@ The folder corressponding to above link contains code and dataset for the projec
 
 DL_MODELS.py: definition of architecture of the deep learning models
 
+/saved_models: contains the saved ML, DL and transformer models
+
 Datahandler.py: contains function to read csv files and function for training and testing machine learning models
 
 1.MINI_PROJECT_ML.ipynb: implementation of Machine Learning classifiers using TF-IDF vectorizer for the task on Tweepfake dataset
